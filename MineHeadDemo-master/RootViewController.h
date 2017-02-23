@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RootViewController.h
 //  MineHeadDemo-master
 //
 //  Created by 纵昂 on 2017/2/23.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface RootViewController : UIViewController
 
 @end
-
